@@ -1,0 +1,4 @@
+.codex-pdf-inspect/
+.portfolio-build.py
+*.pyc
+__pycache__/
