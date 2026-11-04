@@ -1,6 +1,6 @@
 # Grey Lunk Portfolio
 
-Static Start Bootstrap Creative template prepared for GitHub Pages at `greylunk.com`. No installation or build step is required. The site has not yet been published.
+Static Start Bootstrap Creative template uploaded to GitHub, with GitHub Pages enabled from `main` at the repository root and the custom domain set to `greylunk.com`. Spaceship DNS configuration and HTTPS are pending. No installation or build step is required.
 
 ## Edit and preview
 
